@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const request = require('request');
 const client = new Discord.Client();
 
-client.login('MzAwODI4NjE1OTEyOTgwNDgw.C8yO9A.9ROT0tuboGCPivhe-L9rRuJytaw');
+client.login('');
 
 client.on('ready', () => {
   console.log('Hello. Silvia is now ready.');
