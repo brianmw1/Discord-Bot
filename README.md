@@ -1,4 +1,4 @@
-# Silvia-Discord-Bot
+# Discord-Bot
 
 Simple text based bot to respond to specific commands.
 
